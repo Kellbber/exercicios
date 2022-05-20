@@ -1,0 +1,17 @@
+{
+  "name": "exercicios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "npx tsc",
+    "build-and-run": "npm run build && npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "keywords": [],
+  "description": ""
+}
